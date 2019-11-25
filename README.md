@@ -33,7 +33,7 @@ var func = async() => {
 };
 ```
 
-_
+
 ## • Making Calls
 All calls using the CoinCodexClient are asynchronous.
 
